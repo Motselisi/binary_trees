@@ -17,3 +17,4 @@ nodo->left = NULL;
 nodo->right = NULL;
 return (nodo);
 }
+
